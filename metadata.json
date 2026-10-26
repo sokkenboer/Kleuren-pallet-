@@ -1,0 +1,6 @@
+{
+  "name": "KleurenAvontuur: Kleuren Leren voor Kinderen",
+  "description": "Een rustige, vrolijke en interactieve leerapp voor peuters en kleuters om stap voor stap kleuren te herkennen, mengen en ontdekken met leuke animaties en beloningen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
